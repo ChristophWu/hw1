@@ -1,4 +1,4 @@
-# Read me
+# README
 
 :::info
 Deep or Shallow? 
